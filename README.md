@@ -1,4 +1,4 @@
-## lifeOfPy
-# My First Python Repository
-  - This is purely for learning
-    - All code is from FreeCodeCamp https://www.freecodecamp.org/learn/
+# lifeOfPy
+## My First Python Repository
+  - FreeCodeCamp https://www.freecodecamp.org/learn/
+    - This is purely for my learning
